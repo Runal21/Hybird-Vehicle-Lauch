@@ -1,6 +1,6 @@
-#🚗 Analyzing the Indian Market Potential for Hybrid Vehicles
+# 🚗 Analyzing the Indian Market Potential for Hybrid Vehicles
 
-###📈 Project Overview
+### 📈 Project Overview
 This project is focused on analyzing the Indian market's potential for hybrid vehicles, with a goal to establish a viable market entry strategy. By leveraging the strong brand reputation of Japanese carmakers and concentrating on affordability and technological appeal, we aim to identify a winning strategy for a smooth and successful launch.
 
 ### 📋 Methodology
